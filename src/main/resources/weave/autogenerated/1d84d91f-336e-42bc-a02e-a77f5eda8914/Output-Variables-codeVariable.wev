@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_1d84d91f_336e_42bc_a02e_a77f5eda8914_Output_Variables_codeVariable = Any
+
